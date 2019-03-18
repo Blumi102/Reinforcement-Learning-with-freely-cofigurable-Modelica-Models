@@ -1,0 +1,5 @@
+- Wie fügt sich unser Forschungsprojekt in die Promotion ein?
+- Abgleich der erstellten Arbeitpakete
+- ggf. Modelica Modell anfragen
+- genaue Anforderungen an unser Forschungsprojekt
+- bevorzugte Lernregeln (auch in Hinblick auf den Performancetest)
